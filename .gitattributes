@@ -1,0 +1,9 @@
+# set eol source control for file types
+browerslist text eol=lf
+.* text eol=lf
+*.html text eol=lf
+*.js text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.scss text eol=lf
+*.ts text eol=lf
