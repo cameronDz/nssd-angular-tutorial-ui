@@ -8,7 +8,7 @@
     "url": "https://github.com/cameronDz/md-angular-tutorial"
   },
   "name": "md-angular-tutorial",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
