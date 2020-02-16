@@ -1,4 +1,12 @@
 {
+  "author": {
+    "email": "camerondziurgot@gmail.com",
+    "name": "Cam Dziurgot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cameronDz/md-angular-tutorial"
+  },
   "name": "md-angular-tutorial",
   "version": "0.0.0",
   "scripts": {
