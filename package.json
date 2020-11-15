@@ -5,7 +5,7 @@
     "url": "http://camdziurgot.io"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "^0.1000.2",
+    "@angular-devkit/build-angular": "^0.1100.1",
     "@angular/animations": "~9.0.1",
     "@angular/cli": "~9.0.2",
     "@angular/common": "~9.0.1",
@@ -40,6 +40,7 @@
     "tslib": "^1.10.0",
     "tslint": "~5.18.0",
     "typescript": "~3.7.5",
+    "webpack-subresource-integrity": ">=1.5.1",
     "yargs-parser": "^13.1.2",
     "zone.js": "~0.10.2"
   },
