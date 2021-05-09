@@ -5,7 +5,7 @@
     "url": "https://www.camdziurgot.io"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "^0.1100.1",
+    "@angular-devkit/build-angular": "^0.1102.12",
     "@angular/animations": "~9.0.1",
     "@angular/cli": "~9.0.2",
     "@angular/common": "~9.0.1",
@@ -22,6 +22,7 @@
     "@types/node": "^12.11.1",
     "codelyzer": "^5.1.2",
     "elliptic": ">=6.5.4",
+    "hosted-git-info": ">=3.0.8",
     "http-proxy": "^1.18.1",
     "jasmine-core": "~3.5.0",
     "jasmine-spec-reporter": "~4.2.1",
@@ -30,7 +31,7 @@
     "karma-coverage-istanbul-reporter": "~2.1.0",
     "karma-jasmine": "~2.0.1",
     "karma-jasmine-html-reporter": "^1.4.2",
-    "lodash": "^4.17.19",
+    "lodash": ">=4.17.21",
     "minimist": ">=1.2.3",
     "node-forge": "^0.10.0",
     "protractor": "^7.0.0",
@@ -40,7 +41,9 @@
     "tslib": "^1.10.0",
     "tslint": "~5.18.0",
     "typescript": "~3.7.5",
+    "url-parse": ">=1.5.0",
     "webpack-subresource-integrity": ">=1.5.1",
+    "xmlhttprequest-ssl": ">=1.6.2",
     "yargs-parser": "^13.1.2",
     "zone.js": "~0.10.2"
   },
