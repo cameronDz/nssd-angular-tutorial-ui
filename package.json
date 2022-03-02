@@ -41,7 +41,7 @@
     "tslib": "^1.10.0",
     "tslint": "~5.18.0",
     "typescript": "~3.7.5",
-    "url-parse": ">=1.5.0",
+    "url-parse": ">=1.5.9",
     "webpack-subresource-integrity": ">=1.5.1",
     "xmlhttprequest-ssl": ">=1.6.2",
     "yargs-parser": "^13.1.2",
